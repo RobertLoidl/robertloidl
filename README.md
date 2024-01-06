@@ -9,9 +9,8 @@ You can find a bunch more details on LinkedIn: https://www.linkedin.com/in/rober
 ## Expertise
 <img align="left" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img align="left" alt="docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
-<img align="left" alt="tia" src="https://img.shields.io/badge/github-tia%20portal-02D8A0?style=for-the-badge&logo=github&logoColor=white" />
-<img align="left" alt="siemens" src="https://img.shields.io/badge/github-siemens-009999?style=for-the-badge&logo=github&logoColor=white" />
-<img align="left" alt="industrial" src="https://img.shields.io/badge/github-industrial%20iot-003751?style=for-the-badge&logo=github&logoColor=white" />
+<img align="left" alt="tia" src="https://img.shields.io/badge/github-tia%20portal-02D8A0?style=for-the-badge&logo=github&logoColor=white" /> 
+<img align="left" alt="siemens" src="https://img.shields.io/badge/github-siemens-009999?style=for-the-badge&logo=github&logoColor=white" /> 
 <br>
 <br>
 

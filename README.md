@@ -1,27 +1,19 @@
-### Hi there 👋, I'm Robert
 
-I’m a Tech enthusiast and a System Programmer</h3>
+### Hi there 👋, I'm Robert - Welcome to my profile!
+<br>
 
-### 👨🏻‍💻 &nbsp;About Me
+I am Tech & Home Lab Nerd from Austria </h3>
 
-- 🌱 I’m currently learning **Microservices in Python**
+You can find a bunch more details on LinkedIn: https://www.linkedin.com/in/robert-loidl-62775a271/
 
-- 💬 Ask me about **TIA Portal, SIMATIC S7**
+## Expertise
+<img align="left" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img align="left" alt="docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
+<br>
+<br>
 
-- 📄 Know about my experiences https://www.linkedin.com/in/robert-loidl-62775a271/
+## GitHub Analytics
+![Robert's GitHub stats](https://github-readme-stats.vercel.app/api?username=robertloidl&show_icons=true&theme=radical&count_private=true)
 
-### 🛠 &nbsp;Tech Stack
-
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
-
-### ⚙️ &nbsp;GitHub Analytics
-<a href="https://github.com/robertloidl">
-  <img align="center" height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=robertloidl&show_icons=true&include_all_commits=true&count_private=true&theme=algolia" />
-</a>
-<a href="https://github.com/robertloidl">
-  <img align="center" height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=robertloidl&layout=compact&langs_count=8&theme=algolia&hide=javascript,html,tex,css" />
-</a>
-
+## Languages and Tools
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robertloidl&&theme=radical&hide_progress=true)
